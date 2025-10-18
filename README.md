@@ -5,16 +5,16 @@ Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://goog
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Mielestäni opin paljon uutta, koska katsoin youtubesta, tiktokista ja instagram reelseistä minkälaisia muut olivat tehneet.
+Opin katsomalla ja sen jälkeen kokeilemalla itse niitä.
+Hain myös tällä tavoin ideoita To Do List ulkoasuun.
+Onnistuin oppimaan ja ymmärtämään projektia tekemällä localstorage toiminnan sekä kuinka se tehdään.
+Parantamisen varaa voisi olla siinä, että osaisi luoda koodin itse eli ei tarvitsisi katsoa mitä muut ovat tehneet,
+mutta tämän projektin jälkeen perus javascript on opittu.
+Antaisin itselleni pisteitä seuraavasti: 8/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Kurssi sekä lähiopetus ovat tuntuneet mukavilta ja hyödyllisiltä.
 
 
 ## Sisällysluettelo:
@@ -29,10 +29,12 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+To Do List on sovellus, joka toimii webissä. Listaan voi lisätä asioita, joita sinun tavitsee tehdä. Voit lisätä tehtävän kirjoittamalla kohtaan "Lisää tehtävä..."
+ja tehtävän tulee olla 3 merkkiä pitkä. Jos tehtävä ei täytä 3 merkin kriteeriä, teksti kenttä muuttuu ympäriltä punaiseksi ja sen alle ilmestyy "Kijroita vähintää 3 merkkiä".
+Tehtäviä voi yliviivata tehdyksi ja poistaa tehtävät joita et enää tarvitse. Tehtävät säilyvät, vaikka sulkisit välilehden eli kun avaat uudelleen ne ovat siellä ellet ole itse poistanut niitä.
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+Ei pitäisi olla suurempia bugeja, mutta local storage saattaa toimia heikosti.
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
@@ -40,9 +42,9 @@ Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta
 
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
-## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+## Teknologiat 
+Käytin seuraavia teknologioita: html, css, javascript ja dom-skriptaus
+HTML muodosti sivun rakenteen. CSS käytettiin ulkoasuun. Javascript käytettiin saavuttamaan To DO List:in toiminnallisuus. DOM-skriptausta käytettiin HTML-elementtien muokkaamiseen.
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
