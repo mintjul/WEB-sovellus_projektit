@@ -61,4 +61,4 @@ Lista l채hteist채 ja esimerkeist채, joita k채ytit projektin aikana. Mainitse my�
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla t채t채 [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Esimerkki: MIT-lisenssi @ [tekij채](author.com)
+Esimerkki: MIT-lisenssi @ [mintjul]
