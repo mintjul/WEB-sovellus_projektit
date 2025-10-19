@@ -34,7 +34,7 @@ ja tehtävän tulee olla 3 merkkiä pitkä. Jos tehtävä ei täytä 3 merkin kr
 Tehtäviä voi yliviivata tehdyksi ja poistaa tehtävät joita et enää tarvitse. Tehtävät säilyvät, vaikka sulkisit välilehden eli kun avaat uudelleen ne ovat siellä ellet ole itse poistanut niitä.
 
 ## Tunnetut virheet/bugit
-Ei pitäisi olla suurempia bugeja, mutta local storage saattaa toimia heikosti.
+Ei pitäisi olla suurempia bugeja, mutta local storagen kanssa oli ongelmia.
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
@@ -55,8 +55,11 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- https://www.youtube.com/watch?v=G0jO8kUrg-I  
+- https://www.youtube.com/watch?v=gRkaen6MeQc&t=378s
+- https://www.youtube.com/@SuperSimpleDev
+- Instagram reels & TikTok: ulkonäkö ideat <3
+- ChatGPT: debuggaus, esimerkkien kautta oppimiseen kuinka jotkin koodit kannattaa tehdä
 
 ## Lisenssi
 MIT-lisenssi @ [mintjul]
