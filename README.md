@@ -2,7 +2,7 @@
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Linkki projektin videoesittelyyn file:///C:/Users/Omistaja/OneDrive/Tiedostot/WEB-projektit/DOM-skriptaus/index.html
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni opin paljon uutta, koska katsoin youtubesta, tiktokista ja instagram reelseistä minkälaisia muut olivat tehneet.
@@ -58,7 +58,7 @@ Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse my�
 - https://www.youtube.com/watch?v=G0jO8kUrg-I  
 - https://www.youtube.com/watch?v=gRkaen6MeQc&t=378s
 - https://www.youtube.com/@SuperSimpleDev
-- Instagram reels & TikTok: ulkonäkö ideat <3
+- Instagram reels & TikTok: ulkonäkö ideat
 - ChatGPT: debuggaus, esimerkkien kautta oppimiseen kuinka jotkin koodit kannattaa tehdä
 
 ## Lisenssi
