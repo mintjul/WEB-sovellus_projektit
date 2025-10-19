@@ -2,8 +2,7 @@
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
-Linkki projektin videoesittelyyn file:///C:/Users/Omistaja/OneDrive/Tiedostot/WEB-projektit/DOM-skriptaus/index.html
-
+Linkki projektin videoesittelyyn 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni opin paljon uutta, koska katsoin youtubesta, tiktokista ja instagram reelseistä minkälaisia muut olivat tehneet.
 Opin katsomalla ja sen jälkeen kokeilemalla itse niitä.
