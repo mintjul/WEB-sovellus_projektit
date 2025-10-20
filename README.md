@@ -43,7 +43,7 @@ Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Teknologiat 
 Käytin seuraavia teknologioita: html, css, javascript ja dom-skriptaus
-HTML muodosti sivun rakenteen. CSS käytettiin ulkoasuun. Javascript käytettiin saavuttamaan To DO List:in toiminnallisuus. DOM-skriptausta käytettiin HTML-elementtien muokkaamiseen.
+HTML muodosti sivun rakenteen. CSS käytettiin ulkoasuun. Javascript käytettiin saavuttamaan To Do List:in toiminnallisuus. DOM-skriptausta käytettiin HTML-elementtien muokkaamiseen.
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
