@@ -53,7 +53,7 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 - https://www.youtube.com/watch?v=G0jO8kUrg-I  
 - https://www.youtube.com/watch?v=gRkaen6MeQc&t=378s
 - https://www.youtube.com/@SuperSimpleDev
-- Instagram reels & TikTok: ulkonäkö ideat
+- Instagram reels & TikTok: inspiraatio
 - ChatGPT: debuggaus, esimerkkien kautta oppimiseen kuinka jotkin koodit kannattaa tehdä
 
 ## Lisenssi
