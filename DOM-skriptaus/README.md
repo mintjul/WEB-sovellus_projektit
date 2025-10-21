@@ -27,7 +27,7 @@ Kurssi sekä lähiopetus ovat tuntuneet mukavilta ja hyödyllisiltä.
 
 ## Tietoja sovelluksesta
 To Do List on sovellus, joka toimii webissä. Listaan voi lisätä asioita, joita sinun tavitsee tehdä. Voit lisätä tehtävän kirjoittamalla kohtaan "Lisää tehtävä..."
-ja tehtävän tulee olla 3 merkkiä pitkä. Jos tehtävä ei täytä 3 merkin kriteeriä, teksti kenttä muuttuu ympäriltä punaiseksi ja sen alle ilmestyy "Kijroita vähintää 3 merkkiä".
+ja tehtävän tulee olla 3 merkkiä pitkä. Jos tehtävä ei täytä 3 merkin kriteeriä, teksti kenttä muuttuu ympäriltä punaiseksi ja sen alle ilmestyy "Kirjoita vähintää 3 merkkiä".
 Tehtäviä voi yliviivata tehdyksi ja poistaa tehtävät joita et enää tarvitse. Tehtävät säilyvät, vaikka sulkisit välilehden eli kun avaat uudelleen ne ovat siellä ellet ole itse poistanut niitä.
 
 ## Tunnetut virheet/bugit
