@@ -31,7 +31,7 @@ ja tehtävän tulee olla 3 merkkiä pitkä. Jos tehtävä ei täytä 3 merkin kr
 Tehtäviä voi yliviivata tehdyksi ja poistaa tehtävät joita et enää tarvitse. Tehtävät säilyvät, vaikka sulkisit välilehden eli kun avaat uudelleen ne ovat siellä ellet ole itse poistanut niitä.
 
 ## Tunnetut virheet/bugit
-Ei pitäisi olla suurempia bugeja, mutta local storagen kanssa oli ongelmia.
+Ei pitäisi olla suurempia bugeja, mutta local storagen koodin kanssa oli ongelmia.
 
 ## Kuvakaappaukset
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ddced4b1-5d56-43ce-8232-fbad2fad4092" />
@@ -50,7 +50,6 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 - ...
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
 - https://www.youtube.com/watch?v=G0jO8kUrg-I  
 - https://www.youtube.com/watch?v=gRkaen6MeQc&t=378s
 - https://www.youtube.com/@SuperSimpleDev
