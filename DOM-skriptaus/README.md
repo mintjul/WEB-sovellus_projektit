@@ -34,10 +34,9 @@ Tehtäviä voi yliviivata tehdyksi ja poistaa tehtävät joita et enää tarvits
 Ei pitäisi olla suurempia bugeja, mutta local storagen kanssa oli ongelmia.
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
+<img width="1115" height="843" alt="image" src="https://github.com/user-attachments/assets/ddced4b1-5d56-43ce-8232-fbad2fad4092" />
+<img width="1069" height="829" alt="image" src="https://github.com/user-attachments/assets/22b7eeb6-d3cb-4c84-8d45-0aee740da71a" />
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Teknologiat 
 Käytin seuraavia teknologioita: html, css, javascript ja dom-skriptaus
