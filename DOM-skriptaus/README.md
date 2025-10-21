@@ -34,8 +34,8 @@ Tehtäviä voi yliviivata tehdyksi ja poistaa tehtävät joita et enää tarvits
 Ei pitäisi olla suurempia bugeja, mutta local storagen kanssa oli ongelmia.
 
 ## Kuvakaappaukset
-<img width="110" height="84" alt="image" src="https://github.com/user-attachments/assets/ddced4b1-5d56-43ce-8232-fbad2fad4092" />
-<img width="106" height="82" alt="image" src="https://github.com/user-attachments/assets/22b7eeb6-d3cb-4c84-8d45-0aee740da71a" />
+<img width="1100" height="100" alt="image" src="https://github.com/user-attachments/assets/ddced4b1-5d56-43ce-8232-fbad2fad4092" />
+<img width="1060" height="100" alt="image" src="https://github.com/user-attachments/assets/22b7eeb6-d3cb-4c84-8d45-0aee740da71a" />
 
 
 ## Teknologiat 
