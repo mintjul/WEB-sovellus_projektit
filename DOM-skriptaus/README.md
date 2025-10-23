@@ -45,11 +45,8 @@ Käytin seuraavia teknologioita: html, css, javascript ja dom-skriptaus
 HTML muodosti sivun rakenteen. CSS käytettiin ulkoasuun. Javascript käytettiin saavuttamaan To Do List:in toiminnallisuus. DOM-skriptausta käytettiin HTML-elementtien muokkaamiseen.
 
 ## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+- Avaa linkki
+- Ota käyttöön
 
 ## Kiitokset
 - https://www.youtube.com/watch?v=G0jO8kUrg-I  
