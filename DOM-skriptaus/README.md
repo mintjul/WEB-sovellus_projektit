@@ -1,8 +1,6 @@
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa https://splendorous-trifle-52cc9b.netlify.app/
 
-Linkki projektin videoesittelyyn https://youtu.be/GqlpzjJ8fxQ
-
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni opin paljon uutta, koska katsoin youtubesta, tiktokista ja instagram reelseistä minkälaisia muut olivat tehneet.
 Opin katsomalla ja sen jälkeen kokeilemalla itse niitä.
