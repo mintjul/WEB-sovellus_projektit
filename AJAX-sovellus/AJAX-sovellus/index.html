@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elokuvahaku</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h1>Elokuvahaku</h1>
+  <div id="search-box">
+    <input type="text" id="movie-input" placeholder="Kirjoita elokuvan nimi...">
+    <button id="search-btn">Hae</button>
+  </div>
+  <div id="results"></div>
+</div>
+
+<!-- Overlay elokuvan tiedoille -->
+<div id="movie-details">
+  <div class="movie-details-content">
+    <button id="back-btn">⬅ Takaisin</button>
+    <div id="movie-info"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
