@@ -1,12 +1,14 @@
 # Projektin nimi ja tekijät
-Projektin nimi ja kaikki mukana olevat tekijät. 
+Elokuvahaku
+Tekijät: Elsa Miftari ja Minttu Lappalainen
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
+- Elsa suunnittelu, scriptit
+- Minttu HTML- ja CSS, osan scripteistä,c bugien korjaus ja testaus
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni onnistuin...
@@ -61,6 +63,4 @@ Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse my�
 - [Beginners guide to BEM](link-goes-here.com)  
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+MIT-lisenssi @ [mintjul]
