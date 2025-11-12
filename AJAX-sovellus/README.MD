@@ -8,7 +8,7 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
 - Elsa suunnittelu, scriptit
-- Minttu HTML- ja CSS, osan scripteistä,c bugien korjaus ja testaus
+- Minttu HTML- ja CSS, osan scripteistä, bugien korjaus ja testaus
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni onnistuin...
