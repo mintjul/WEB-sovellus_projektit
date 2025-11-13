@@ -11,7 +11,13 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 Tehtiin yhdessä scriptit. Elsa teki CSS ja Minttu teki HTML. Tehtiin erikseen readme.md. 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Onnistuin hyvin perus javascriptin tekemisessä ja scriptin ymmärtämisessä. Parantamista olisi API key:n käytössä. Haasteena oli API key:n piillottaminen ja koin haasteita apin käytössä aluksi. API key:tä ei ole piilotettu.
+Onnistuin hyvin perus javascriptin tekemisessä ja scriptin ymmärtämisessä. 
+
+Parantamista olisi API key:n käytössä. 
+
+Haasteena oli API key:n piillottaminen ja koin haasteita apin käytössä aluksi. API key:tä ei ole piilotettu.
+
+
 Antaisin itselleni pisteitä seuraavasti: 7,5/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
