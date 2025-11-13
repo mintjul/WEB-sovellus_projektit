@@ -4,7 +4,7 @@ Elokuvahaku
 Tekijät: Elsa Miftari ja Minttu Lappalainen
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa https://bucolic-cobbler-efcba2.netlify.app/
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
