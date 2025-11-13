@@ -8,20 +8,14 @@ Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://goog
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
-- Elsa suunnittelu, scriptit
-- Minttu HTML- ja CSS, osan scripteistä, bugien korjaus ja testaus
+Tehtiin yhdessä scriptit. Elsa teki CSS ja Minttu teki HTML. Tehtiin erikseen readme.md. 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Onnistuin hyvin perus javascriptin tekemisessä ja scriptin ymmärtämisessä. Parantamista olisi API key:n käytössä. Haasteena oli API key:n piillottaminen ja koin haasteita apin käytössä aluksi. API key:tä ei ole piilotettu.
+Antaisin itselleni pisteitä seuraavasti: 7,5/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Lähiopetukset ovat hyödyllisä, koska voi kysyä apua helposti ja avun saa helpommin kuin etänä. Kurssi on edelleen mielenkiintoinen ja hyvin järjestetty.
 
 
 ## Sisällysluettelo:
@@ -36,20 +30,16 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+Elokuvahaku on sovellus, jossa käyttäjä voi hakea elokuvia ja nähdä niiden tietoja. Elokuvahaussa tulee uudet ja vanhat versiot elokuvista. Elokuvien tiedoissa lukee päänäyttelijät, genre, juoni lyhyesti ja kuinka monta tähteä elokuva on saanut IMDB:ssä.
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+Ei pitäisi olla ongelmia.
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Tässä on käytetty JavaScriptiä, HTML, CSS, DOM-skriptausta, fetch api ja dynaamista HTML sekä event listener.
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
