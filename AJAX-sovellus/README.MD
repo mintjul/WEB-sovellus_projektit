@@ -42,7 +42,7 @@ Elokuvahaku on sovellus, jossa käyttäjä voi hakea elokuvia ja nähdä niiden 
 Ei pitäisi olla ongelmia.
 
 ## Kuvakaappaukset
-
+- en saanut liitettyä ei toiminut liittämis tavat
 
 ## Teknologiat
 Tässä on käytetty JavaScriptiä, HTML, CSS, DOM-skriptausta, fetch api ja dynaamista HTML sekä event listener.
