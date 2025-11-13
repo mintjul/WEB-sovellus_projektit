@@ -48,16 +48,21 @@ Ei pitäisi olla ongelmia.
 Tässä on käytetty JavaScriptiä, HTML, CSS, DOM-skriptausta, fetch api ja dynaamista HTML sekä event listener.
 
 ## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+1. Avaa Elokuvahaun verkkolinkki
+
+2. Kirjoita hakuun elokuvan nimi
+
+3. Paina elokuvaa
+
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- Tiktok
+
+- Instagram
+
+- Youtube
+
+- Chatgpt debuggaus
 
 ## Lisenssi
 MIT-lisenssi @ [mintjul]
