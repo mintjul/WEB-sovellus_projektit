@@ -1,24 +1,16 @@
 # Projektin nimi ja tekijät
-Elokuvahaku
+To Do List
 
-Tekijät: Elsa Miftari ja Minttu Lappalainen
+Tekijät: Minttu Lappalainen
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa https://bucolic-cobbler-efcba2.netlify.app/
-Linkki projektin videoesittelyyn [google.com](https://google.com)
-
-## Työn jakautuminen 
-Tehtiin yhdessä scriptit. Elsa teki CSS ja Minttu teki HTML. Tehtiin erikseen readme.md. 
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [(https://merry-zuccutto-19042e.netlify.app/)]
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Onnistuin hyvin perus javascriptin tekemisessä ja scriptin ymmärtämisessä. 
-
-Parantamista olisi API key:n käytössä. 
-
-Haasteena oli API key:n piillottaminen ja koin haasteita apin käytössä aluksi. API key:tä ei ole piilotettu.
+Hyvö onnistuminen ja osaaminen on kehittynyt huomattavasti ensimmäiseen projektiin verrattuna.
 
 
-Antaisin itselleni pisteitä seuraavasti: 7,5/10 p
+Antaisin itselleni pisteitä seuraavasti: 7/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Lähiopetukset ovat hyödyllisä, koska voi kysyä apua helposti ja avun saa helpommin kuin etänä. Kurssi on edelleen mielenkiintoinen ja hyvin järjestetty.
@@ -36,31 +28,34 @@ Lähiopetukset ovat hyödyllisä, koska voi kysyä apua helposti ja avun saa hel
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-Elokuvahaku on sovellus, jossa käyttäjä voi hakea elokuvia ja nähdä niiden tietoja. Elokuvahaussa tulee uudet ja vanhat versiot elokuvista. Elokuvien tiedoissa lukee päänäyttelijät, genre, juoni lyhyesti ja kuinka monta tähteä elokuva on saanut IMDB:ssä.
+To Do List on mihin voin kirjoittaa tehtävät jotka sinun tulee tehdä. Siinä on myös mahdollisuus hakea motivaatio lainaus kannsutamaan tehtävien teossa.
 
 ## Tunnetut virheet/bugit
-Ei pitäisi olla ongelmia.
+Motivaatio lainauksen lataus ei onnistu.
 
 ## Kuvakaappaukset
-- en saanut liitettyä ei toiminut liittämis tavat
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0d976772-c318-4efb-a27b-4587abdc8b3b" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b3baa175-9ec8-44b0-9a77-be0d1bf8f129" />
 
 ## Teknologiat
-Tässä on käytetty JavaScriptiä, HTML, CSS, DOM-skriptausta, fetch api ja dynaamista HTML sekä event listener.
+Tässä on käytetty JavaScriptiä, HTML, CSS, DOM-skriptausta ja axiosi.
 
 ## Asennus
-1. Avaa Elokuvahaun verkkolinkki
+1. Avaa verkkolinkki
 
-2. Kirjoita hakuun elokuvan nimi
+2. Klikkaa nappia
 
-3. Paina elokuvaa
+3. Kirjoita tehtävä
+
+4. Hae motivaatiota
+
+5. Merkitse tehtävä valmiikis valmis napista
+
+6. Poista tehtävä roskakori napista
 
 
 ## Kiitokset
-- Tiktok
-
-- Instagram
-
-- Youtube
+- Ensimmäinen projekti
 
 - Chatgpt debuggaus
 
