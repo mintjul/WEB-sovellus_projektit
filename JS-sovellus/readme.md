@@ -4,7 +4,7 @@ To Do List
 Tekijät: Minttu Lappalainen
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [(https://merry-zuccutto-19042e.netlify.app/)]
+Pääset julkaistuun sovellukseen käsiksi osoitteessa https://merry-zuccutto-19042e.netlify.app/
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Hyvö onnistuminen ja osaaminen on kehittynyt huomattavasti ensimmäiseen projektiin verrattuna.
