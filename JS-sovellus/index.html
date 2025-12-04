@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JS-sovellus</title>
+
+    <!-- kirjoitusfontti -->
+   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600&display=swap" rel="stylesheet">
+
+    <!-- Animate juttu -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- tausta -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.24/dist/vanta.dots.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+
+    <div id="your-element-selector"></div>
+
+     <header class="animate__animated animate__fadeInDown">
+        <h1 class="app-title">Klikkaa nappia</h1>
+    </header>
+
+    <button id="showListBtn"> To Do List</button>
+
+    <div id="todolist" style="display:none;">
+
+        <form id="todo-form">
+        <input type="text" id="taskInput" placeholder="New task..." />
+        <button type="submit" id="addItemBtn" >Add</button>
+        </form>
+
+        <p id="error-msg" style="color:red;"></p>
+        <ul id="todoList"></ul>
+
+         <button type="button" id="quoteBtn" class="quote-btn">Hae motivaatio</button>
+         <p id="quoteText" class="quote-text"></p>
+    
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
